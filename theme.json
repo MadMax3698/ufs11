@@ -6,6 +6,12 @@
             "area": "header",
             "name": "header",
             "title": "header"
+        },
+
+        {
+            "area": "footer",
+            "name": "footer",
+            "title": "footer"
         }
     ]
 }
