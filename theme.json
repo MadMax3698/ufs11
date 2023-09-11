@@ -1,6 +1,38 @@
 {
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "settings": {
+        "color":{
+            "defaultPalette":false,
+            "defaultGradients": false,
+            "defaultDuotone": false,
+            "palette": [
+                {
+                    "slug": "primary",
+                    "color": "#383d3b",
+                    "name": "Onyx"
+                },
+                {
+                    "slug": "Lavander-blush",
+                    "color": "#eee5e9",
+                    "name": "Grigio chiaro"
+                },
+                {
+                    "slug": "Grey",
+                    "color": "#7c7c7c",
+                    "name": "Grigio scuro"
+                },
+                {
+                    "slug": "Non-photo-blue",
+                    "color": "#92dce5",
+                    "name": "Azzurro chiaro"
+                },
+                {
+                    "slug": "Robin-egg-blue",
+                    "color": "#52dee5",
+                    "name": "Azzurro"
+                }
+            ]
+        },
         "typography": {
             "fluid":true,
             "fontFamilies": [
