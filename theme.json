@@ -7,29 +7,29 @@
             "defaultDuotone": false,
             "palette": [
                 {
-                    "slug": "primary",
+                    "slug": "Onyx",
                     "color": "#383d3b",
-                    "name": "Onyx"
+                    "name": "Dark grey"
                 },
                 {
                     "slug": "Lavander-blush",
                     "color": "#eee5e9",
-                    "name": "Grigio chiaro"
+                    "name": "Light grey"
                 },
                 {
                     "slug": "Grey",
                     "color": "#7c7c7c",
-                    "name": "Grigio scuro"
+                    "name": "Grey"
                 },
                 {
                     "slug": "Non-photo-blue",
                     "color": "#92dce5",
-                    "name": "Azzurro chiaro"
+                    "name": "Dark azure"
                 },
                 {
                     "slug": "Robin-egg-blue",
                     "color": "#52dee5",
-                    "name": "Azzurro"
+                    "name": "Azure"
                 }
             ]
         },
