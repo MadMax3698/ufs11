@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"version": "1.0.0",
+	"apiVersion": 3,
+	"name": "acf/carousel",
+	"title": "Carosello",
+	"description": "Un blocco personalizzato che permette di inserire un carosello",
+	"category": "design",
+	"icon": "",
+	"keywords": [
+		"carousel",
+		"carosello", 
+		"galleria"
+	],
+	"editorStyle": [
+		"fragment-carousel"
+	],
+	"style": [
+		"fragment-carousel"
+	],
+	"viewScript": [
+		"fragment-carousel"
+	],
+	"acf": {
+		"renderTemplate": "carousel.php"
+	}
+}
