@@ -13,17 +13,21 @@
 		"galleria"
 	],
 	"editorStyle": [
-		"slick"
+		"slick",
+		"carousel"
 	],
 	"style": [
-		"slick"
+		"slick",
+		"carousel"
 	],
 	"viewScript": [
-		"slick"
+		"slick",
+		"carousel"
 	],
 
 	"editorScript": [
-		"slick"
+		"slick",
+		"carousel"
 	],
 	"acf": {
 		"renderTemplate": "carousel.php"

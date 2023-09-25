@@ -1,0 +1,13 @@
+.carousel-js .slick-slide div {
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
+
+.carousel-js .slick-slide div img {
+    height: auto;
+    max-width: 8em;
+    margin: auto;
+    display: block !important;
+}
