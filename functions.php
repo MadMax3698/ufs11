@@ -7,7 +7,6 @@
     }
     add_action('after_setup_theme', 'ufs11_setup');
 
-    
 
     add_action('init', 'register_acf_blocks');
     function register_acf_blocks() {

@@ -13,13 +13,17 @@
 		"galleria"
 	],
 	"editorStyle": [
-		"fragment-carousel"
+		"slick"
 	],
 	"style": [
-		"fragment-carousel"
+		"slick"
 	],
 	"viewScript": [
-		"fragment-carousel"
+		"slick"
+	],
+
+	"editorScript": [
+		"slick"
 	],
 	"acf": {
 		"renderTemplate": "carousel.php"
