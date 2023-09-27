@@ -12,3 +12,9 @@
     function register_acf_blocks() {
         register_block_type( __DIR__ . '/acf-blocks/carousel' );
     }
+
+    // CPT
+
+    require get_template_directory() . '/post-types/custom-portfolio-post-type.php';
+
+    // end CPT

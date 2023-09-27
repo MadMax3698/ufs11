@@ -6,7 +6,7 @@
 }
 
 .carousel-js .slick-slide div img {
-    height: auto;
+    height: 8em;
     max-width: 8em;
     margin: auto;
     display: block !important;
